@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>EMC</title>
+      <link rel="icon" href="emc.png">
+</head>
+<body>
+    <center>
+    <h1>Error Makes Clever Academy🚀</h1>
+    <p><b>Training | Tech News | Freshers Guide</b></p>
+    <p>Empowering young developers to level up their skills through training in software development technologies🧑‍💻</p>
+    </center>
+
+    <p>The concept of "error makes clever" highlights the importance of learning from mistakes as a cornerstone of education. At a clever academy, errors are not seen as failures but as opportunities for growth and understanding. This approach encourages students to experiment, take risks, and develop problem-solving skills without the fear of making mistakes. By analyzing and reflecting on errors, students gain deeper insights and improve their critical thinking abilities, ultimately fostering a more resilient and innovative mindset. This philosophy creates a supportive learning environment where curiosity is nurtured, and perseverance is rewarded.</p>
+
+    <p> In a clever academy, the principle that "error makes clever" is integral to its teaching methodology. Students are encouraged to view mistakes as valuable learning experiences rather than setbacks. This approach cultivates a growth mindset, where challenges are embraced and resilience is built. Teachers play a pivotal role in this process by creating an atmosphere of trust and openness, where students feel safe to explore new ideas and approaches. By systematically identifying, analyzing, and correcting errors, students not only enhance their knowledge but also develop critical life skills such as adaptability and persistence. This educational philosophy ultimately prepares students to face real-world problems with confidence and creativity.</p>
+
+
+    <h3>Lets Divide Full stack into 3 parts</h3>
+		<ul>
+			<li>Frontend</li>
+			<li>Backend</li>
+			<li>Database</li>
+		</ul>
+
+        <h2>Technologies Used for Full Stack Development</h2>
+		<table border="1">
+			<tr>
+				<th>Frontend</th> <th> Backend </th> <th> Database</th>
+			</tr>
+			<tr>
+				<td>HTML</td> <td> Java</td> <td> Mongo DB</td>
+			</tr>
+			<tr>
+				<td>CSS</td> <td> Python</td> <td> MySQL</td>
+			</tr>
+			<tr>
+				<td>JavaScript</td> <td> Node JS</td> <td> AWS</td>
+			</tr>
+		</table>
+
+    <hr>
+
+   
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+      <title>EMC</title>
+      <link rel="icon" href="emc.png">
+</head> 
+    <body>
+       
+        <center>
+        <h1>Error Makes Clever Academy🚀</h1>
+	<p><b>Training | Tech News | Freshers Guide</b></p>
+	<p>Empowering young developers to level up their skills through training in software development technologies🧑‍💻</p>
+        </center>
+
+        <center>
+        <!--Step 12 Create a line-->
+        <hr>
+        <!--Step 13 Create a form using table-->
+        <h2>Registration Form</h2>
+        <form>
+			<table>
+				<tr>
+					<td>Name:</td>
+					<td><input type="text"></td>
+				</tr>
+				<tr>
+					<td>Age:</td>
+					<td><input type="number"></td>
+				</tr>
+				<tr>
+					<td>Gender:</td>
+					<td>
+						<input type="radio">Male
+						<input type="radio">Female
+					</td>
+				</tr>
+				<tr>
+					<td>Email</td>
+					<td><input type="email"></td>
+				</tr>
+				<tr>
+					<td>Select a Course:</td>
+					<td>
+						<select>
+							<option>Full Stack Development</option>
+							<option>Java Programming</option>
+							<option>Python</option>
+							<option>Data Analyst</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Upload your Resume</td>
+					<td><input type="file"></td>
+				</tr>
+				<tr>
+					<td><input type="reset"></td>
+					<td><input type="submit"></td>
+				</tr>
+			</table>
+		</form>
+    
+        </center>
+    </body>
+</html>
